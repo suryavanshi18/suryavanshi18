@@ -1,9 +1,9 @@
 # <p align="center">HelloWorld My name is Abhishek Suryavanshi</p>
 
 ## About Me
-- 🔭 Completed by B.tech in Computer Science
-- 3 years of IT experience at Infosys.
-- 🤝 I’m currently looking for job in Machine learning/Data Science.
+- Education: B.tech in Computer Science. PG Diploma in Big Data and Data Analytics.
+- 3 years of work experience at Infosys.
+- I’m currently looking for job in Machine learning/Data Science.
 - Solved 1000+ problems on LeetCode: [Suryavanshi_97](https://leetcode.com/Suryavanshi_97/)
 
 
