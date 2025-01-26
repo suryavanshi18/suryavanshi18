@@ -1,16 +1,16 @@
-## Hi there 👋
+# <p align="center">HelloWorld My name is Abhishek Suryavanshi</p>
 
-<!--
-**suryavanshi18/suryavanshi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 Completed by B.tech in Computer Science
+- 3 years of IT experience at Infosys.
+- 🤝 I’m currently looking for job in Machine learning/Data Science.
+- Solved 1000+ problems on LeetCode: [Suryavanshi_97](https://leetcode.com/Suryavanshi_97/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- 📫 How to reach me: asuryavanshi@ucsd.edu.
+- Linkdein: [Suryavanshi18](https://www.linkedin.com/in/suryavanshi18/)
+
+## Languages and Tools
+- Programming Languages: C++,Python,SQL
+- Frameworks and Libraries: Pytorch, Scikit-Learn, PySpark , Hive , Hadoop
